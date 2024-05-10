@@ -62,7 +62,11 @@
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a> 
+  </a>
+  <br>
+  <h5 align="left">Projects:</h5>
+  <a href="https://github.com/nima-nourinejad/Task-Manager"> A simple Task Manager application built with HTML, CSS, and JavaScript, allowing users to add, save, and display tasks </a> 
+  <br> <br>
 </p>
 
 <!-- GitHub Stats -->
