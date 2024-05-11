@@ -25,6 +25,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   </a>
   <br>
+  <h5 align="left">Projects:</h5>
+  <a href="https://github.com/nima-nourinejad/so_long"> A 2D game project </a> 
+  <br> <br>
+  <br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
