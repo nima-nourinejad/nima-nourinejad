@@ -39,6 +39,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
   <br>
+  <h5 align="left">Projects:</h5>
+  <a href="https://github.com/nima-nourinejad/PyTaskManager"> Python class for managing to-do lists efficiently </a> 
+  <br> <br>
+  <br>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40"/>
   </a>
