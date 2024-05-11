@@ -34,9 +34,14 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
+  <br>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40"/>
   </a>
+  <br>
+  <h5 align="left">Projects:</h5>
+  <a href="https://github.com/nima-nourinejad/SQL-Book-Management"> A SQL project for managing books in a database, including creating a table, inserting records, updating records, deleting records, and selecting all records </a>
+  <br><br>
   <br>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40"/>
