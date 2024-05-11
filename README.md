@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/nima-nourinejad/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="mailto:nima.nourinejad@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Email" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
