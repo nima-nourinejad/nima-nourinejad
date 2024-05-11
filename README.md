@@ -60,7 +60,7 @@
   <br>
   <h5 align="left">Projects:</h5>
   <a href="https://github.com/nima-nourinejad/fastapi-sqlalchemy-school-management"> A FastAPI SQLAlchemy-based RESTful API for managing school classes efficiently </a> 
-  <br> <br>
+  <br> <br> <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a> 
