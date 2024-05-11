@@ -65,7 +65,14 @@
   </a>
   <br>
   <h5 align="left">Projects:</h5>
-  <a href="https://github.com/nima-nourinejad/Task-Manager"> A simple Task Manager application built with HTML, CSS, and JavaScript, allowing users to add, save, and display tasks </a> 
+  <a href="https://github.com/nima-nourinejad/Task-Manager"> A simple Task Manager application built with HTML, CSS, and JavaScript, allowing users to add, save, and display tasks </a>
+  <br><br>
+ <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo"  />
+ </a>
+  <br>
+  <h5 align="left">Projects:</h5>
+  <a href="https://github.com/nima-nourinejad/Born2beRoot"> Master the Art of Secure Server Setup with Bash Scripts </a> 
   <br> <br>
 </p>
 
