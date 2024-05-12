@@ -60,7 +60,7 @@
   <br>
   <h5 align="left">Projects:</h5>
   <a href="https://github.com/nima-nourinejad/fastapi-sqlalchemy-school-management"> A FastAPI SQLAlchemy-based RESTful API for managing school classes efficiently </a>
-  <br>
+  <br><br>
   <a href="https://github.com/nima-nourinejad/Weather-Scraper-API"> Build an API to Fetch Real-Time Weather Data (FastAPI, requests, and BeautifulSoup) </a> 
   <br> <br> <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
