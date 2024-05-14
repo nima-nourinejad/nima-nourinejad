@@ -26,7 +26,10 @@
   </a>
   <br>
   <h5 align="left">Projects:</h5>
-  <a href="https://github.com/nima-nourinejad/so_long"> A 2D game project </a> 
+  <a href="https://github.com/nima-nourinejad/so_long"> A 2D game project </a>
+  <br><br>
+  <a href="https://github.com/nima-nourinejad/push_swap"> An advanced sorting algorithm project to efficiently sort data on a stack using a limited set of instructions </a> 
+  <br>
   <br> <br>
   <br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
