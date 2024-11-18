@@ -86,7 +86,6 @@
   <h5 align="left">Projects:</h5>
   <a href="https://github.com/nima-nourinejad/Travel-Recommendation"> Travel Recommendation: A dynamic web platform offering personalized travel suggestions using a JSON-based API </a>
   <br>
-  <h5 align="left">Projects:</h5>
   <a href="https://github.com/nima-nourinejad/Task-Manager"> A simple Task Manager application built with HTML, CSS, and JavaScript, allowing users to add, save, and display tasks </a>
   <br><br>
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
