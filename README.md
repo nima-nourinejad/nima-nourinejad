@@ -1,5 +1,7 @@
 
-## About Me
+<h1 align="center">Hi, I'm Nima</h1>
+
+### About Me
 
 Enthusiastic software developer. Passionate about learning and solving complex problems. Ready to grow in a professional environment.
 
