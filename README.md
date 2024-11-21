@@ -30,7 +30,7 @@ I value the experience of senior developers. I am a good listener, eager to lear
 - [**2D Adventure Game**](#) - A simple 2D game with object collection and exploration.  
 
 #### **C++ Projects**  
-- [**2D Survival Game**](#) - A dynamic 2D game with client-server communication and score tracking using SFML.  
+- [**2D Survival Game**](https://github.com/nima-nourinejad/Survive) - A dynamic 2D game with client-server communication and score tracking using SFML.  
 - [**Web Server**](#) - Builds a custom web server to handle multiple connections simultaneously using epoll.  
 
 #### **Python Projects**  
