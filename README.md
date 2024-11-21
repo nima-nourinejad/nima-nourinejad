@@ -5,9 +5,16 @@
 
 ---
 
-### About Me:
-- **Aspiring Developer:** Continuously learning and building expertise in software development.
-- **Problem Solver:** Combining a strong analytical mindset with technical skills to deliver impactful projects.
+## About Me
+
+Enthusiastic software developer. Passionate about learning and solving complex problems. Ready to grow in a professional environment.
+
+At Hive Helsinki, I tackled diverse challenges and honed my skills across various programming languages and technologies.
+
+I value the experience of senior developers. I am a good listener, eager to learn from others. I am a team player who values collaboration. I thrive in environments that encourage autonomy and initiative. I am excited to focus my skills in a professional setting. Ready to contribute and tackle new challenges.
+
+[**View My Resume**](https://nima-nourinejad.github.io/resume/)
+
 
 ---
 
