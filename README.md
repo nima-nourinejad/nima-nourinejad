@@ -1,9 +1,3 @@
-<h1 align="center">Hi there, I'm Nima</h1>
-<h3 align="center">Let's Innovate Together</h3>
-
-<p align="center">Welcome to my coding portfolio! I am a passionate developer focused on solving challenges and building meaningful software solutions.</p>
-
----
 
 ## About Me
 
