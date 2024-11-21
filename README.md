@@ -1,5 +1,4 @@
 
-<h1 align="center">Hi, I'm Nima</h1>
 
 ### About Me
 
