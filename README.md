@@ -1,102 +1,66 @@
-<h1 align="center">Hi there, I'm Nima</h1>
+<h1 align="center">Hi there, I'm Nima 👋</h1>
+<h3 align="center">Let's Innovate Together 🚀</h3>
 
-<h3 align="center">Let's Innovate Together</h3>
+<p align="center">Welcome to my coding portfolio! I am a passionate developer focused on solving challenges and building meaningful software solutions.</p>
 
-<p align="justify">Welcome to my coding journey! I'm currently engaged in exciting projects and learning experiences:</p>
+---
 
-- Engaged in C / C++ Projects at Hive Helsinki: Currently immersed in the development of projects utilizing C / C++ programming languages at Hive Helsinki, focusing on skill development and delivering high-quality solutions.
+### 🌟 About Me:
+- **Aspiring Developer:** Continuously learning and building expertise in software development.
+- **Problem Solver:** Combining a strong analytical mindset with technical skills to deliver impactful projects.
 
-- Advancing in Full-stack JavaScript Development with IBM: Actively pursuing mastery in Full-stack JavaScript Development through the IBM Full-Stack JavaScript Developer Professional Certificate program.
+---
 
-<h3 align="left">About Me:</h3>
-<p align="justify">I am a driven professional with a strong background in project management, business development, and sales. Leveraging my Master's degree in Marketing from the University of East Anglia and Bachelor's degree in Mechanical Engineering from Amirkabir University of Technology, I bring a unique blend of skills to my coding journey. Currently enrolled at Hive Helsinki, I excel in various coding projects, driven by my passion for innovation and analytical thinking. My commitment to excellence and continuous learning fuels my ambition to make meaningful contributions in the tech industry.</p>
+### 🔧 Tech Stack:
+- **Languages:** C, C++, Python, SQL, JavaScript, Bash  
+- **Tools & Frameworks:** Pandas, FastAPI, Matplotlib, NumPy, PIL, BeautifulSoup  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nima-nourinejad/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:nima.nourinejad@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Email" height="30" width="40" /></a>
-</p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>
-  <br>
-  <h5 align="left">Projects:</h5>
-  <a href="https://github.com/nima-nourinejad/so_long"> A 2D game project </a>
-  <br><br>
-  <a href="https://github.com/nima-nourinejad/push_swap"> An advanced sorting algorithm project to efficiently sort data on a stack using a limited set of instructions </a> 
-  <br>
-  <br> <br>
-  <br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <br>
-  <h5 align="left">Projects:</h5>
-  <a href="https://github.com/nima-nourinejad/PyTaskManager"> Python class for managing to-do lists efficiently </a> 
-  <br> <br>
-  <br>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40"/>
-  </a>
-  <br>
-  <h5 align="left">Projects:</h5>
-  <a href="https://github.com/nima-nourinejad/SQL-Book-Management"> A SQL project for managing books in a database, including creating a table, inserting records, updating records, deleting records, and selecting all records </a>
-  <br><br>
-  <br>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40"/>
-  </a>
-  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" height="40"/>
-  </a>
-  <br>
-  <h5 align="left">Projects:</h5>
-  <a href="https://github.com/nima-nourinejad/fastapi-sqlalchemy-school-management"> A FastAPI SQLAlchemy-based RESTful API for managing school classes efficiently </a>
-  <br><br>
-  <a href="https://github.com/nima-nourinejad/Weather-Scraper-API"> Build an API to Fetch Real-Time Weather Data (FastAPI, requests, and BeautifulSoup) </a> 
-  <br> <br> <br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a>
-  <br>
-  <h5 align="left">Projects:</h5>
-  <a href="https://github.com/nima-nourinejad/Travel-Recommendation"> Travel Recommendation: A dynamic web platform offering personalized travel suggestions using a JSON-based API </a>
-  <br><br>
-  <a href="https://github.com/nima-nourinejad/Task-Manager"> A simple Task Manager application built with HTML, CSS, and JavaScript, allowing users to add, save, and display tasks </a>
-  <br><br>
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo"  />
- </a>
-  <br>
-  <h5 align="left">Projects:</h5>
-  <a href="https://github.com/nima-nourinejad/Born2beRoot"> Master the Art of Secure Server Setup with Bash Scripts </a> 
-  <br> <br>
-    
-</p>
+---
+
+### 📂 Projects:
+
+#### **C Projects**  
+- [**Custom Unix Shell**](#) - A Unix-like shell with process management and system call handling.  
+- [**3D Maze Game**](#) - A ray-casting engine for a 3D maze exploration game.  
+- [**Dining Philosophers Simulation**](#) - Implements multithreading and mutexes for synchronization using pthreads.  
+- [**Unix Pipe Mechanism**](#) - Simulates Unix pipes for process communication.  
+- [**Sorting Algorithm Optimization**](#) - Efficiently sorts integers using optimized algorithms.  
+- [**2D Adventure Game**](#) - A simple 2D game with object collection and exploration.  
+
+#### **C++ Projects**  
+- [**2D Survival Game**](#) - A dynamic 2D game with client-server communication and score tracking using SFML.  
+- [**Web Server**](#) - Builds a custom web server to handle multiple connections simultaneously using epoll.  
+
+#### **Python Projects**  
+- [**School Management API**](#) - Manages school data with CRUD operations using FastAPI and SQLAlchemy.  
+- [**Life Expectancy Analysis**](#) - Visualizes correlations between GDP and life expectancy using Pandas and Matplotlib.  
+- [**Image Processor**](#) - Performs array manipulations and image filtering using NumPy and PIL.  
+- [**Weather Scraper**](#) - Fetches real-time weather data using BeautifulSoup.  
+- [**Data Science Toolkit**](#) - Implements data classes, statistical analysis, and decorators.  
+- [**Contract Creator**](#) - Generates contracts via a Tkinter GUI and Word templates.  
+- [**Bank Account Manager**](#) - Simulates deposit, withdrawal, and balance inquiries using OOP principles.  
+- [**Task Manager**](#) - Programmatically manages to-do lists.  
+
+#### **SQL Projects**  
+- [**Book Management Database**](#) - Demonstrates SQL operations for book records using PostgreSQL.  
+
+#### **Web Development Projects**  
+- [**Travel Recommender**](#) - Provides dynamic travel suggestions using JSON data.  
+- [**Memory Matching Game**](#) - A web-based memory challenge with scaling difficulty.  
+- [**Patient Manager**](#) - Manages patient data and generates real-time statistics using JSON.  
+- [**Task Management App**](#) - Creates and displays tasks interactively.  
+- [**Unit Converter Web App**](#) - Converts measurements dynamically (e.g., temperature, weight).  
+
+---
+
+### 📞 Connect With Me:
+- **[LinkedIn](https://linkedin.com/in/nima-nourinejad/)**  
+- **Email:** [nima.nourinejad@gmail.com](mailto:nima.nourinejad@gmail.com)  
+
+---
+
+Feel free to explore my projects and connect with me for collaboration opportunities!
+
 
 <!-- GitHub Stats -->
 <p align="center">
