@@ -41,7 +41,7 @@ At the same time, I am initiative-driven and thrive on tackling complex challeng
 - [**Image Processor**](https://github.com/nima-nourinejad/Image-Processor) - Performs array manipulations and image filtering using NumPy and Python Imaging Library.  
 - [**Weather Scraper**](https://github.com/nima-nourinejad/Weather-Scraper-API) - Fetches real-time weather data using FastAPI and BeautifulSoup.  
 - [**Data Science Toolkit**](https://github.com/nima-nourinejad/Data-Science-Toolkit) - Implements data classes, statistical analysis, and decorators.  
-- [**Contract Creator**](https://github.com/nima-nourinejad/contract-making) - Generates contracts via a Tkinter GUI and Word templates.  
+- [**Contract Creator**](https://github.com/nima-nourinejad/contract-making) - Generates contracts via a Tkinter GUI and python-docx library.  
 - [**Bank Account Manager**](https://github.com/nima-nourinejad/PyBankAccount) - Simulates deposit, withdrawal, and balance inquiries using OOP principles.  
 - [**Task Manager**](https://github.com/nima-nourinejad/PyTaskManager) - Programmatically manages to-do lists.
 
