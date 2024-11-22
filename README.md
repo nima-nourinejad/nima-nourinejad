@@ -38,8 +38,8 @@ At the same time, I am initiative-driven and thrive on tackling complex challeng
 #### **Python Projects**  
 - [**School Management API**](https://github.com/nima-nourinejad/fastapi-sqlalchemy-school-management) - Manages school data with CRUD operations using FastAPI and SQLAlchemy.  
 - [**Life Expectancy Analysis**](https://github.com/nima-nourinejad/python_practice/tree/main/Day03) - Visualizes correlations between GDP and life expectancy using Pandas and Matplotlib.  
-- [**Image Processor**](https://github.com/nima-nourinejad/python_practice/tree/main/Day02) - Performs array manipulations and image filtering using NumPy and PIL.  
-- [**Weather Scraper**](https://github.com/nima-nourinejad/Weather-Scraper-API) - Fetches real-time weather data using BeautifulSoup.  
+- [**Image Processor**](https://github.com/nima-nourinejad/python_practice/tree/main/Day02) - Performs array manipulations and image filtering using NumPy and Python Imaging Library.  
+- [**Weather Scraper**](https://github.com/nima-nourinejad/Weather-Scraper-API) - Fetches real-time weather data using FastAPI and BeautifulSoup.  
 - [**Data Science Toolkit**](https://github.com/nima-nourinejad/python_practice/tree/main/Day05) - Implements data classes, statistical analysis, and decorators.  
 - [**Contract Creator**](https://github.com/nima-nourinejad/contract-making) - Generates contracts via a Tkinter GUI and Word templates.  
 - [**Bank Account Manager**](https://github.com/nima-nourinejad/PyBankAccount) - Simulates deposit, withdrawal, and balance inquiries using OOP principles.  
