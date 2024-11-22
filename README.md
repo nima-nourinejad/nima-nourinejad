@@ -6,7 +6,9 @@ Enthusiastic software developer. Passionate about learning and solving complex p
 
 At Hive Helsinki, I tackled diverse challenges and honed my skills across various programming languages and technologies.
 
-I value the experience of senior developers. I am a good listener, eager to learn from others. I am a team player who values collaboration. I thrive in environments that encourage autonomy and initiative. I am excited to focus my skills in a professional setting. Ready to contribute and tackle new challenges.
+I value the guidance of senior developers. I listen closely. I learn eagerly. I thrive in a team. Collaboration inspires me. I grow through shared knowledge.  
+
+At the same time, I am initiative-driven and thrive on tackling complex challenges. At Hive, this is the standard approach: you receive one challenge.  And,  you must navigate it on your own. I enjoy getting immersed in learning and exploring various possibilities. I continually refine my approach until I discover the best solution.
 
 [**View My Resume**](https://nima-nourinejad.github.io/resume/)
 
