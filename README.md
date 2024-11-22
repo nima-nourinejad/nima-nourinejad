@@ -22,12 +22,12 @@ I value the experience of senior developers. I am a good listener, eager to lear
 ### Projects:
 
 #### **C Projects**  
-- [**Custom Unix Shell**](#) - A Unix-like shell with process management and system call handling.  
-- [**3D Maze Game**](#) - A ray-casting engine for a 3D maze exploration game.  
-- [**Dining Philosophers Simulation**](#) - Implements multithreading and mutexes for synchronization using pthreads.  
-- [**Unix Pipe Mechanism**](#) - Simulates Unix pipes for process communication.  
-- [**Sorting Algorithm Optimization**](#) - Efficiently sorts integers using optimized algorithms.  
-- [**2D Adventure Game**](#) - A simple 2D game with object collection and exploration.  
+- [**Custom Unix Shell**](https://github.com/nima-nourinejad/42-minishell) - A Unix-like shell with process management and system call handling.  
+- [**3D Maze Game**](https://github.com/nima-nourinejad/42-cub3D) - A ray-casting engine for a 3D maze exploration game.  
+- [**Dining Philosophers Simulation**](https://github.com/nima-nourinejad/philosophers) - Implements multithreading and mutexes for synchronization using pthreads.  
+- [**Unix Pipe Mechanism**](https://github.com/nima-nourinejad/pipex) - Simulates Unix pipes for process communication.  
+- [**Sorting Algorithm Optimization**](https://github.com/nima-nourinejad/push_swap) - Efficiently sorts integers using optimized algorithms.  
+- [**2D Adventure Game**](https://github.com/nima-nourinejad/so_long) - A simple 2D game with object collection and exploration.  
 
 #### **C++ Projects**  
 - [**2D Survival Game**](https://github.com/nima-nourinejad/Survive) - A dynamic 2D game with client-server communication and score tracking using SFML.  
@@ -35,22 +35,22 @@ I value the experience of senior developers. I am a good listener, eager to lear
 
 #### **Python Projects**  
 - [**School Management API**](#) - Manages school data with CRUD operations using FastAPI and SQLAlchemy.  
-- [**Life Expectancy Analysis**](#) - Visualizes correlations between GDP and life expectancy using Pandas and Matplotlib.  
-- [**Image Processor**](#) - Performs array manipulations and image filtering using NumPy and PIL.  
-- [**Weather Scraper**](#) - Fetches real-time weather data using BeautifulSoup.  
-- [**Data Science Toolkit**](#) - Implements data classes, statistical analysis, and decorators.  
-- [**Contract Creator**](#) - Generates contracts via a Tkinter GUI and Word templates.  
-- [**Bank Account Manager**](#) - Simulates deposit, withdrawal, and balance inquiries using OOP principles.  
-- [**Task Manager**](#) - Programmatically manages to-do lists.  
+- [**Life Expectancy Analysis**](https://github.com/nima-nourinejad/python_practice/tree/main/Day03) - Visualizes correlations between GDP and life expectancy using Pandas and Matplotlib.  
+- [**Image Processor**](https://github.com/nima-nourinejad/python_practice/tree/main/Day02) - Performs array manipulations and image filtering using NumPy and PIL.  
+- [**Weather Scraper**](https://github.com/nima-nourinejad/Weather-Scraper-API) - Fetches real-time weather data using BeautifulSoup.  
+- [**Data Science Toolkit**](https://github.com/nima-nourinejad/python_practice/tree/main/Day05) - Implements data classes, statistical analysis, and decorators.  
+- [**Contract Creator**](https://github.com/nima-nourinejad/contract-making) - Generates contracts via a Tkinter GUI and Word templates.  
+- [**Bank Account Manager**](https://github.com/nima-nourinejad/PyBankAccount) - Simulates deposit, withdrawal, and balance inquiries using OOP principles.  
+- [**Task Manager**](https://github.com/nima-nourinejad/PyTaskManager) - Programmatically manages to-do lists.  
 
 #### **SQL Projects**  
-- [**Book Management Database**](#) - Demonstrates SQL operations for book records using PostgreSQL.  
+- [**Book Management Database**](https://github.com/nima-nourinejad/SQL-Book-Management) - Demonstrates SQL operations for book records using PostgreSQL.  
 
 #### **Web Development Projects**  
-- [**Travel Recommender**](#) - Provides dynamic travel suggestions using JSON data.  
-- [**Memory Matching Game**](#) - A web-based memory challenge with scaling difficulty.  
-- [**Patient Manager**](#) - Manages patient data and generates real-time statistics using JSON.  
-- [**Task Management App**](#) - Creates and displays tasks interactively.  
+- [**Travel Recommender**](https://github.com/nima-nourinejad/Travel-Recommendation) - Provides dynamic travel suggestions using JSON data.  
+- [**Memory Matching Game**](https://github.com/nima-nourinejad/memory-match-game) - A web-based memory challenge with scaling difficulty.  
+- [**Patient Manager**](https://github.com/nima-nourinejad/heath_census.) - Manages patient data and generates real-time statistics using JSON.  
+- [**Task Management App**](https://github.com/nima-nourinejad/Task-Manager) - Creates and displays tasks interactively.  
 - [**Unit Converter Web App**](#) - Converts measurements dynamically (e.g., temperature, weight).  
 
 ---
