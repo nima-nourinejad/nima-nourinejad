@@ -34,14 +34,17 @@ I value the experience of senior developers. I am a good listener, eager to lear
 - [**Web Server**](https://github.com/nima-nourinejad/42-webserv.git) - Builds a custom web server to handle multiple connections simultaneously using epoll.  
 
 #### **Python Projects**  
-- [**School Management API**](#) - Manages school data with CRUD operations using FastAPI and SQLAlchemy.  
+- [**School Management API**](https://github.com/nima-nourinejad/fastapi-sqlalchemy-school-management) - Manages school data with CRUD operations using FastAPI and SQLAlchemy.  
 - [**Life Expectancy Analysis**](https://github.com/nima-nourinejad/python_practice/tree/main/Day03) - Visualizes correlations between GDP and life expectancy using Pandas and Matplotlib.  
 - [**Image Processor**](https://github.com/nima-nourinejad/python_practice/tree/main/Day02) - Performs array manipulations and image filtering using NumPy and PIL.  
 - [**Weather Scraper**](https://github.com/nima-nourinejad/Weather-Scraper-API) - Fetches real-time weather data using BeautifulSoup.  
 - [**Data Science Toolkit**](https://github.com/nima-nourinejad/python_practice/tree/main/Day05) - Implements data classes, statistical analysis, and decorators.  
 - [**Contract Creator**](https://github.com/nima-nourinejad/contract-making) - Generates contracts via a Tkinter GUI and Word templates.  
 - [**Bank Account Manager**](https://github.com/nima-nourinejad/PyBankAccount) - Simulates deposit, withdrawal, and balance inquiries using OOP principles.  
-- [**Task Manager**](https://github.com/nima-nourinejad/PyTaskManager) - Programmatically manages to-do lists.  
+- [**Task Manager**](https://github.com/nima-nourinejad/PyTaskManager) - Programmatically manages to-do lists.
+
+#### **System Administration Projects**  
+- [**Server Setup & Security**](https://github.com/nima-nourinejad/Born2beRoot) - Configures a Debian-based server with security measures and service deployment using Bash and Debian.
 
 #### **SQL Projects**  
 - [**Book Management Database**](https://github.com/nima-nourinejad/SQL-Book-Management) - Demonstrates SQL operations for book records using PostgreSQL.  
@@ -51,7 +54,7 @@ I value the experience of senior developers. I am a good listener, eager to lear
 - [**Memory Matching Game**](https://github.com/nima-nourinejad/memory-match-game) - A web-based memory challenge with scaling difficulty.  
 - [**Patient Manager**](https://github.com/nima-nourinejad/heath_census.) - Manages patient data and generates real-time statistics using JSON.  
 - [**Task Management App**](https://github.com/nima-nourinejad/Task-Manager) - Creates and displays tasks interactively.  
-- [**Unit Converter Web App**](#) - Converts measurements dynamically (e.g., temperature, weight).  
+- [**Unit Converter Web App**](https://github.com/nima-nourinejad/unit-conversions) - Converts measurements dynamically (e.g., temperature, weight).  
 
 ---
 
