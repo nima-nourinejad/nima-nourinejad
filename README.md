@@ -11,7 +11,7 @@ Since 2023, I have been studying at Hive Helsinki, developing my coding skills t
 
 ### Tech Stack:
 - **Languages:** C, C++, Python, SQL, JavaScript, Bash  
-- **Tools & Frameworks:** Pandas, FastAPI, Matplotlib, NumPy, PIL, BeautifulSoup  
+- **Tools & Frameworks:** Pandas, FastAPI, Matplotlib, NumPy, PIL, BeautifulSoup, React 
 
 ---
 
@@ -50,7 +50,10 @@ Since 2023, I have been studying at Hive Helsinki, developing my coding skills t
 - [**Memory Matching Game**](https://github.com/nima-nourinejad/memory-match-game) - A web-based memory challenge with scaling difficulty using HTML, CSS, and JavaScript. 
 - [**Patient Manager**](https://github.com/nima-nourinejad/heath_census.) - Manages patient data and generates real-time statistics using HTML, CSS, JavaScript, and JSON.
 - [**Task Management App**](https://github.com/nima-nourinejad/Task-Manager) - Creates and displays tasks interactively using HTML, CSS, and JavaScript.  
-- [**Unit Converter Web App**](https://github.com/nima-nourinejad/unit-conversions) - Converts measurements like temperature and weight dynamically using HTML, CSS, and JavaScript.  
+- [**Unit Converter Web App**](https://github.com/nima-nourinejad/unit-conversions) - Converts measurements like temperature and weight dynamically using HTML, CSS, and JavaScript.
+
+#### **React Projects**  
+- [**SmartCart Manager**](https://github.com/nima-nourinejad/Counter-App) -  A modern React application designed to provide a dynamic and interactive product tracking system. 
 
 ---
 
