@@ -11,7 +11,7 @@ Since 2023, I have been studying at Hive Helsinki, developing my coding skills t
 
 ### Tech Stack:
 - **Languages:** C, C++, Python, SQL, JavaScript, Bash  
-- **Tools & Frameworks:** Pandas, FastAPI, Matplotlib, NumPy, PIL, BeautifulSoup, React 
+- **Tools & Frameworks:** React, Node.js, Express, MongoDB FastAPI, PostgreSQL, Pandas, Matplotlib, NumPy, BeautifulSoup, SFML (Game Development) 
 
 ---
 
@@ -53,7 +53,10 @@ Since 2023, I have been studying at Hive Helsinki, developing my coding skills t
 - [**Unit Converter Web App**](https://github.com/nima-nourinejad/unit-conversions) - Converts measurements like temperature and weight dynamically using HTML, CSS, and JavaScript.
 
 #### **React Projects**  
-- [**SmartCart Manager**](https://github.com/nima-nourinejad/Counter-App) -  A modern React application designed to provide a dynamic and interactive product tracking system. 
+- [**SmartCart Manager**](https://github.com/nima-nourinejad/Counter-App) -  A modern React application designed to provide a dynamic and interactive product tracking system.
+
+#### **Full-Stack Projects**  : Full-Stack Web Application – Full-stack JavaScript app with React front-end, Node.js/Express back-end, and MongoDB database
+- [**Book Haven**](https://github.com/nima-nourinejad/Book-Club) -  A web application where book lovers can share and explore their favorite book recommendations.
 
 ---
 
