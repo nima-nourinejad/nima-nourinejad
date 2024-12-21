@@ -15,6 +15,19 @@ Since 2023, I have been studying at Hive Helsinki, developing my coding skills t
 
 ---
 
+#### **Web Development Projects**  
+- [**Travel Recommender**](https://github.com/nima-nourinejad/Travel-Recommendation) - Provides dynamic travel suggestions using HTML, CSS, JavaScript, and JSON.  
+- [**Memory Matching Game**](https://github.com/nima-nourinejad/memory-match-game) - A web-based memory challenge with scaling difficulty using HTML, CSS, and JavaScript. 
+- [**Patient Manager**](https://github.com/nima-nourinejad/heath_census.) - Manages patient data and generates real-time statistics using HTML, CSS, JavaScript, and JSON.
+- [**Task Management App**](https://github.com/nima-nourinejad/Task-Manager) - Creates and displays tasks interactively using HTML, CSS, and JavaScript.  
+- [**Unit Converter Web App**](https://github.com/nima-nourinejad/unit-conversions) - Converts measurements like temperature and weight dynamically using HTML, CSS, and JavaScript.
+
+#### **React Projects**  
+- [**SmartCart Manager**](https://github.com/nima-nourinejad/Counter-App) -  A modern React application designed to provide a dynamic and interactive product tracking system.
+
+#### **Full-Stack (React, Node.js/Express, MongoDB) Projects**
+- [**Book Haven**](https://github.com/nima-nourinejad/Book-Club) -  A web application where book lovers can share and explore their favorite book recommendations.
+
 ### Projects:
 
 #### **C Projects**  
@@ -45,18 +58,7 @@ Since 2023, I have been studying at Hive Helsinki, developing my coding skills t
 #### **SQL Projects**  
 - [**Book Management Database**](https://github.com/nima-nourinejad/SQL-Book-Management) - Demonstrates SQL operations for book records using PostgreSQL.  
 
-#### **Web Development Projects**  
-- [**Travel Recommender**](https://github.com/nima-nourinejad/Travel-Recommendation) - Provides dynamic travel suggestions using HTML, CSS, JavaScript, and JSON.  
-- [**Memory Matching Game**](https://github.com/nima-nourinejad/memory-match-game) - A web-based memory challenge with scaling difficulty using HTML, CSS, and JavaScript. 
-- [**Patient Manager**](https://github.com/nima-nourinejad/heath_census.) - Manages patient data and generates real-time statistics using HTML, CSS, JavaScript, and JSON.
-- [**Task Management App**](https://github.com/nima-nourinejad/Task-Manager) - Creates and displays tasks interactively using HTML, CSS, and JavaScript.  
-- [**Unit Converter Web App**](https://github.com/nima-nourinejad/unit-conversions) - Converts measurements like temperature and weight dynamically using HTML, CSS, and JavaScript.
 
-#### **React Projects**  
-- [**SmartCart Manager**](https://github.com/nima-nourinejad/Counter-App) -  A modern React application designed to provide a dynamic and interactive product tracking system.
-
-#### **Full-Stack (React, Node.js/Express, MongoDB) Projects**
-- [**Book Haven**](https://github.com/nima-nourinejad/Book-Club) -  A web application where book lovers can share and explore their favorite book recommendations.
 
 ---
 
