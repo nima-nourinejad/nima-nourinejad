@@ -28,8 +28,8 @@ Since 2023, I have been studying at Hive Helsinki, developing my coding skills t
 - [**Travel Recommender**](https://github.com/nima-nourinejad/Travel-Recommendation) - Provides dynamic travel suggestions using HTML, CSS, JavaScript, and JSON. [You can check it here.](https://nima-nourinejad.github.io/Travel-Recommendation/) 
 - [**Memory Matching Game**](https://github.com/nima-nourinejad/memory-match-game) - A web-based memory challenge with scaling difficulty using HTML, CSS, and JavaScript. [You can check it here.](https://nima-nourinejad.github.io/memory-match-game/)
 - [**Patient Manager**](https://github.com/nima-nourinejad/heath_census.) - Manages patient data and generates real-time statistics using HTML, CSS, JavaScript, and JSON. [You can check it here.](https://nima-nourinejad.github.io/heath_census./)
-- [**Task Management App**](https://github.com/nima-nourinejad/Task-Manager) - Creates and displays tasks interactively using HTML, CSS, and JavaScript. [You can check it here.](https://nima-nourinejad.github.io/memory-match-game/)
-- [**Unit Converter Web App**](https://github.com/nima-nourinejad/unit-conversions) - Converts measurements like temperature and weight dynamically using HTML, CSS, and JavaScript. [You can check it here.](https://nima-nourinejad.github.io/memory-match-game/)
+- [**Task Management App**](https://github.com/nima-nourinejad/Task-Manager) - Creates and displays tasks interactively using HTML, CSS, and JavaScript. [You can check it here.](https://nima-nourinejad.github.io/Task-Manager/)
+- [**Unit Converter Web App**](https://github.com/nima-nourinejad/unit-conversions) - Converts measurements like temperature and weight dynamically using HTML, CSS, and JavaScript. [You can check it here.](https://nima-nourinejad.github.io/unit-conversions/)
 
 #### **Python Projects**  
 - [**School Management API**](https://github.com/nima-nourinejad/fastapi-sqlalchemy-school-management) - Manages school data with CRUD operations using FastAPI and SQLAlchemy.  
