@@ -20,6 +20,7 @@ Since 2023, I have been studying at Hive Helsinki, developing my coding skills t
 
 #### **Full-Stack (React, Node.js/Express, MongoDB) Projects**
 - [**Book Haven**](https://github.com/nima-nourinejad/Book-Club) -  A web application where book lovers can share and explore their favorite book recommendations.
+  [Visit the App](https://nima-nourinejad.github.io/Book-Club/)
 
 #### **React Projects**  
 - [**SmartCart Manager**](https://github.com/nima-nourinejad/Counter-App) -  A modern React application designed to provide a dynamic and interactive product tracking system.
