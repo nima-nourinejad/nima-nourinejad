@@ -15,6 +15,15 @@ Since 2023, I have been studying at Hive Helsinki, developing my coding skills t
 
 ---
 
+
+### Projects:
+
+#### **Full-Stack (React, Node.js/Express, MongoDB) Projects**
+- [**Book Haven**](https://github.com/nima-nourinejad/Book-Club) -  A web application where book lovers can share and explore their favorite book recommendations.
+
+#### **React Projects**  
+- [**SmartCart Manager**](https://github.com/nima-nourinejad/Counter-App) -  A modern React application designed to provide a dynamic and interactive product tracking system.
+
 #### **Web Development Projects**  
 - [**Travel Recommender**](https://github.com/nima-nourinejad/Travel-Recommendation) - Provides dynamic travel suggestions using HTML, CSS, JavaScript, and JSON.  
 - [**Memory Matching Game**](https://github.com/nima-nourinejad/memory-match-game) - A web-based memory challenge with scaling difficulty using HTML, CSS, and JavaScript. 
@@ -22,13 +31,7 @@ Since 2023, I have been studying at Hive Helsinki, developing my coding skills t
 - [**Task Management App**](https://github.com/nima-nourinejad/Task-Manager) - Creates and displays tasks interactively using HTML, CSS, and JavaScript.  
 - [**Unit Converter Web App**](https://github.com/nima-nourinejad/unit-conversions) - Converts measurements like temperature and weight dynamically using HTML, CSS, and JavaScript.
 
-#### **React Projects**  
-- [**SmartCart Manager**](https://github.com/nima-nourinejad/Counter-App) -  A modern React application designed to provide a dynamic and interactive product tracking system.
 
-#### **Full-Stack (React, Node.js/Express, MongoDB) Projects**
-- [**Book Haven**](https://github.com/nima-nourinejad/Book-Club) -  A web application where book lovers can share and explore their favorite book recommendations.
-
-### Projects:
 
 #### **C Projects**  
 - [**Custom Unix Shell**](https://github.com/nima-nourinejad/42-minishell) - A Unix-like shell with process management and system call handling.  
