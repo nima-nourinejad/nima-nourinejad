@@ -31,20 +31,6 @@ Since 2023, I have been studying at Hive Helsinki, developing my coding skills t
 - [**Task Management App**](https://github.com/nima-nourinejad/Task-Manager) - Creates and displays tasks interactively using HTML, CSS, and JavaScript.  
 - [**Unit Converter Web App**](https://github.com/nima-nourinejad/unit-conversions) - Converts measurements like temperature and weight dynamically using HTML, CSS, and JavaScript.
 
-
-
-#### **C Projects**  
-- [**Custom Unix Shell**](https://github.com/nima-nourinejad/42-minishell) - A Unix-like shell with process management and system call handling.  
-- [**3D Maze Game**](https://github.com/nima-nourinejad/42-cub3D) - A ray-casting engine for a 3D maze exploration game.  
-- [**Dining Philosophers Simulation**](https://github.com/nima-nourinejad/philosophers) - Implements multithreading and mutexes for synchronization using pthreads.  
-- [**Unix Pipe Mechanism**](https://github.com/nima-nourinejad/pipex) - Simulates Unix pipes for process communication.  
-- [**Sorting Algorithm Optimization**](https://github.com/nima-nourinejad/push_swap) - Efficiently sorts integers using optimized algorithms.  
-- [**2D Adventure Game**](https://github.com/nima-nourinejad/so_long) - A simple 2D game with object collection and exploration.  
-
-#### **C++ Projects**  
-- [**2D Survival Game**](https://github.com/nima-nourinejad/Survive) - A dynamic 2D game with client-server communication and score tracking using SFML.  
-- [**Web Server**](https://github.com/nima-nourinejad/42-webserv.git) - Builds a custom web server to handle multiple connections simultaneously using epoll.  
-
 #### **Python Projects**  
 - [**School Management API**](https://github.com/nima-nourinejad/fastapi-sqlalchemy-school-management) - Manages school data with CRUD operations using FastAPI and SQLAlchemy.  
 - [**Life Expectancy Analysis**](https://github.com/nima-nourinejad/Life-Expectancy-Analysis) - Visualizes correlations between GDP and life expectancy using Pandas and Matplotlib.  
@@ -55,13 +41,24 @@ Since 2023, I have been studying at Hive Helsinki, developing my coding skills t
 - [**Bank Account Manager**](https://github.com/nima-nourinejad/PyBankAccount) - Simulates deposit, withdrawal, and balance inquiries using OOP principles.  
 - [**Task Manager**](https://github.com/nima-nourinejad/PyTaskManager) - Programmatically manages to-do lists.
 
+#### **C++ Projects**  
+- [**2D Survival Game**](https://github.com/nima-nourinejad/Survive) - A dynamic 2D game with client-server communication and score tracking using SFML.  
+- [**Web Server**](https://github.com/nima-nourinejad/42-webserv.git) - Builds a custom web server to handle multiple connections simultaneously using epoll.
+
+#### **C Projects**  
+- [**Custom Unix Shell**](https://github.com/nima-nourinejad/42-minishell) - A Unix-like shell with process management and system call handling.  
+- [**3D Maze Game**](https://github.com/nima-nourinejad/42-cub3D) - A ray-casting engine for a 3D maze exploration game.  
+- [**Dining Philosophers Simulation**](https://github.com/nima-nourinejad/philosophers) - Implements multithreading and mutexes for synchronization using pthreads.  
+- [**Unix Pipe Mechanism**](https://github.com/nima-nourinejad/pipex) - Simulates Unix pipes for process communication.  
+- [**Sorting Algorithm Optimization**](https://github.com/nima-nourinejad/push_swap) - Efficiently sorts integers using optimized algorithms.  
+- [**2D Adventure Game**](https://github.com/nima-nourinejad/so_long) - A simple 2D game with object collection and exploration.  
+
+
 #### **System Administration Projects**  
 - [**Server Setup & Security**](https://github.com/nima-nourinejad/Born2beRoot) - Configures a Debian-based server with security measures and service deployment using Bash and Debian.
 
 #### **SQL Projects**  
 - [**Book Management Database**](https://github.com/nima-nourinejad/SQL-Book-Management) - Demonstrates SQL operations for book records using PostgreSQL.  
-
-
 
 ---
 
